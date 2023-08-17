@@ -1,4 +1,4 @@
-
+#swap strings that are diffrentes!
 def areAlmostEqual( s1, s2):
     s = 0
     if s1==s2:
