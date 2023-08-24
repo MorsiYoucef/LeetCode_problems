@@ -1,4 +1,4 @@
-def isIsomorphic(self, s, t):
+def isIsomorphic( s, t):
         mapp1={}
         mapp2={}
 
@@ -9,3 +9,4 @@ def isIsomorphic(self, s, t):
             mapp1[s[i]] = t[i]
             mapp2[t[i]] = s[i]
         return True
+print(isIsomorphic(s="aaab",t="aaba"))
