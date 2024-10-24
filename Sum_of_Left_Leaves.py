@@ -21,10 +21,3 @@ class Solution:
         return self.total
         
         
-
-        
-        
-
-
-
-        
